@@ -1,0 +1,5 @@
+{
+    "cc.Node": "autoNode",
+    "cc.Label": "MyLabel",
+    "cc.Button": "btn"
+}
